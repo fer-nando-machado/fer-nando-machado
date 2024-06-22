@@ -5,3 +5,5 @@
 🤲🏽 I am fluent in **Agile** development practices, I have experience with multiple programming languages and I love to find ways of bringing people and technology together to create innovative products that can solve real world problems.
 
 🙌🏽 I believe that authentic communication, intercultural collaboration, short feedback cycles and continuous experimenting and learning are the keys to the success of a team, a project and an entire company.
+
+🫶🏽 Read more about my projects on my [portfolio](https://fernandomachado90.github.io/) and feel free to drop a message and get in touch.
