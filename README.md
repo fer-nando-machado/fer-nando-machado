@@ -6,4 +6,4 @@
 
 🙌🏽 I believe that authentic communication, intercultural collaboration, short feedback cycles and continuous experimenting and learning are the keys to the success of a team, a project and an entire company.
 
-🫶🏽 Find out more about my projects on my [portfolio](https://fernandomachado90.github.io/) and feel free to drop a message and get in touch.
+🫶🏽 Find out more about my projects on my [portfolio](https://fer-nando-machado.github.io/) and feel free to drop a message and get in touch.
