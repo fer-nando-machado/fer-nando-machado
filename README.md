@@ -1,7 +1,7 @@
 ## 🧑🏽‍💻  Hello, world!
 
-My name is **Fernando Machado**. I have been working with software development since 2007.
+Hello, world! My name is Fernando Machado. I am a Full Stack Software Engineer fluent with Agile development practices. I've been coding since 2005 with a variety of languages - my current tech stack leans towards Typescript, Node and React.
 
-I am a Senior Full-Stack Software Engineer fluent in **Agile** development practices. I have years of experience with different programming languages - mainly `Typescript`, `Node`, `React`, `Java` and `Go`. I love to find ways of bringing people and technology together to create innovative products that can solve real world problems. I believe that authentic communication, intercultural collaboration, short feedback cycles and continuous experimenting and learning are the keys to the success of a team, a project and an entire company.
+I am passionate about bringing people and technology together to create solutions to real life problems - from inception to deployment. I believe that authentic communication, interdisciplinary collaboration and freedom to continuously experiment and learn are the keys to the success of any team.
 
-Find out more about my projects on my [portfolio](https://fer-nando-machado.github.io/) and feel free to drop a message and get in touch.
+Find out more about my projects on my [portfolio](https://fer-nando-machado.github.io/). Feel free to drop a message!
