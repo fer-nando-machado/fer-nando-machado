@@ -1,6 +1,8 @@
 ## 🧑🏽‍💻  Hello, world!
 
-My name is Fernando Machado. I am a Full Stack Software Engineer, fluent with Agile development practices and with more than 15 years of professional experience.
+My name is Fernando Machado. 
+
+I am a Full Stack Software Engineer, fluent with Agile development practices and with more than 15 years of professional experience.
 
 I developed software in a variety of languages: from PHP to Java to Go to a mostly Typescript oriented tech stack with React and Node today.
 
